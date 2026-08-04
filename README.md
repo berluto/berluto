@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @berluto
-- I Like Phyton
+- I Like Python and js :)
